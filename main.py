@@ -1,5 +1,5 @@
 def main():
-    print("shove it, world")
+    print("take it and shove it, world")
 
 
 if __name__ == "__main__":
